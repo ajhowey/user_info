@@ -1,0 +1,5 @@
+Enter user's first name:  John
+Enter user's middle initial:  F
+Enter user's last name:  Kennedy
+Enter user's password:
+['John F. Kennedy', 'jfkennedy', '43ffd3202387404776989a236bf6b7c432c352acfac71a12845566a759d65849', '531ffbe404c468059380c86fffa80ebbc32eba820071d4b40f9c9d661f9b66461869ae4655e8bb5eeed30f1312d2ed16591bc223cb6174ed6abd61d88d0bf592']
